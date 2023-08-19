@@ -5,7 +5,3 @@ dependencies:
   - openpyxl
   - pandas
   - scikit-learn
-  - pip
-  - pip:
-      - python-dotenv
-      - streamlit
